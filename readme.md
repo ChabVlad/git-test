@@ -62,5 +62,5 @@
 
 [Git & GitHub Crash Course For Beginners](https://www.youtube.com/watch?v=SWYqp7iY_Tc)
 
-
-
+[Github](https://github.com/)
+[Bitbuket](https://bitbucket.org/) - альтернатива для github
