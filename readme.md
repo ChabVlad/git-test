@@ -64,3 +64,5 @@
 
 [Github](https://github.com/)
 [Bitbuket](https://bitbucket.org/) - альтернатива для github
+
+Это что за бабуйня?
